@@ -1,1 +1,0 @@
-Download the Telco Customer Churn CSV from Kaggle and place it in this folder.\n
